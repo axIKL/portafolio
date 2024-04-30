@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "ubuntu","sans-serif";
+}
+.container{
+    margin: 0 auto;
+}
+header{
+    background-color: whitesmoke;
+    height: 50px;
+    width: auto;
+    padding: 10px;
+}
+header h1{
+    display: inline-block;
+    position: absolute;
+    padding-top: 8px;
+    padding-left: 10px;
+}
+header h2{
+    display: inline-block;
+    position: absolute ;
+    right: 30px;
+    padding-top: 8px;
+    font-weight: 300;
+}
+main{
+    background: hsla(323, 22%, 38%, 1);
+
+    background: radial-gradient(circle, hsla(323, 22%, 38%, 1) 57%, hsla(0, 0%, 1%, 1) 100%);
+
+    height: 1000px;
+    width: auto;
+}
+img{
+    width: 40%;
+    height: 300px;
+    margin: 20px;
+    border: gray solid 3px;
+    vertical-align: top;
+}
+.container_profile{
+    background-color: white;
+    width: 630px;
+    height: 300px;
+    display: inline-block;
+    margin: 20px;
+}
+.title{
+    color: white;
+
+    background: hsla(0, 0%, 0%, 1);
+
+    background: linear-gradient(180deg, hsla(0, 0%, 0%, 1) 0%, hsla(0, 0%, 48%, 1) 46%);
+
+    padding: 10px;
+}
+.lore{
+    margin: 10px;
+}
+#cont{
+    color: black;
+}
+.container_profile2{
+    background-color: white;
+    width: 380px;
+    height: 300px;
+    display: inline-block;
+    margin: 10px 0px 0px 20px;
+}
+.cp_f{
+    margin: 0;
+    height: 150px;
+    width: 380px;
+    border: hidden;
+}
+.container_profile3{
+    background-color: white;
+    width: 380px;
+    height: 300px;
+    display: inline-table;
+    margin: 0px 0px 0px 20px;
+}
+.small_img{
+    border: hidden;
+    height: 50px;
+    width: 55px;
+    margin: 10px;
+}
+.button{
+    color: white;
+    background-color: green;
+    padding: 5px;
+    border:black solid 2px ;
+    border-radius: 10px;
+    text-decoration: none;
+    position: absolute;
+    top: 957px;
+}
+#bott1{
+    left: 160px;
+}
+#bott2{
+    left: 560px;
+}
+#bott3{
+    left: 969px;
+}
+#lorr{
+    position: absolute;
+    bottom: -530px;
+    right: -626px;
+}
+.bot{
+    min-width: 100px;
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    bottom: 30px;
+}
+
+.boti{
+    min-width: 100px;
+    height: 30px;
+    padding-left: 400px;
+    padding-top: 10px;
+}
+.bot_img{
+    width: 30px;
+    height: 30px;
+    border: hidden;
+    margin-right: 60px;
+}
+footer>div>a{
+    color: black;
+    display: inline-block;
+}
+.a1{
+    position: absolute;
+    bottom: -530px;
+    left: 454px;
+}
+.a2{
+    position: absolute;
+    bottom: -530px;
+    left: 570px;
+}
+.a3{
+    position: absolute;
+    bottom: -530px;
+    left: 690px;
+}
+.a4{
+    position: absolute;
+    bottom: -530px;
+    left: 800px;
+}
